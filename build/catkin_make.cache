@@ -1,0 +1,2 @@
+nino_description
+-DCATKIN_DEVEL_PREFIX=/home/manveer/Nino/devel -DCMAKE_INSTALL_PREFIX=/home/manveer/Nino/install -G Unix Makefiles

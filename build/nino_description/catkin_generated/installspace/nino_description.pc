@@ -1,0 +1,8 @@
+prefix=/home/manveer/Nino/install
+
+Name: nino_description
+Description: Description of nino_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
