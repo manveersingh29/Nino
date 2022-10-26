@@ -38,5 +38,5 @@
 
 	<!--launch rviz-->
 	<node name="rviz" pkg="rviz" type="rviz" respawn="false"
-		  args="-d $(find nino_description)/default.rviz"/>
+		  args="-d $(find nino_description)/config/default.rviz"/>
 </launch>
